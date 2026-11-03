@@ -1,5 +1,3 @@
-# PHP-6---FUNKCJE
-ZADANIE 6
 # PHP #6 – Funkcje
 
 Rozwiązania zadań z lekcji **„PHP: Funkcje – zadania”** (kurs PHP, technikprogramista.pl).
