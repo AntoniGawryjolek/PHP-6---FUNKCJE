@@ -1,0 +1,2 @@
+# PHP-6---FUNKCJE
+ZADANIE 6
