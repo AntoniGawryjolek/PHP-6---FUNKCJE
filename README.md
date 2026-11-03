@@ -28,10 +28,3 @@ Dzięki rozdzieleniu funkcji od wywołań ten sam plik z funkcjami można dołą
 10. **TRÓJKĄT** – `trojkat($a, $b, $c)` sprawdza warunek trójkąta: suma dowolnych dwóch boków musi być większa od trzeciego.
 11. **SZYFR** – `szyfruj($tekst)` szyfruje tekst szyfrem Cezara z przesunięciem o 2 (a→c, k→m, z→b). Wynik pojawia się obok pola tekstowego przy każdym naciśnięciu klawisza (JavaScript `fetch` wysyła tekst do PHP).
 
-## Uruchomienie
-
-1. Skopiuj `funkcje.php` i `zadania.php` do tego samego katalogu serwera (np. `htdocs` w XAMPP).
-2. Uruchom Apache.
-3. Otwórz w przeglądarce: `http://localhost/zadania.php`.
-
-Wymagany jest PHP w wersji 7.0 lub nowszej.
